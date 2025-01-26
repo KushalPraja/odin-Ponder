@@ -7,7 +7,6 @@ class todolist{
     // users can also delete the todo list , section or project
 
 
-    
     constructor(){
         this.projects = [];
     }
